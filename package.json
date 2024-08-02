@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": "github:kpfromer/nestjs-typegoose",
   "peerDependencies": {
-    "@nestjs/common": "^6.10.1 || ^7.0.0",
-    "@nestjs/core": "^6.10.1 || ^7.0.0",
-    "@typegoose/typegoose": "^6.2.1 || ^7.0.0",
-    "mongoose": "^5.10.6"
+    "@nestjs/common": ">=6.10.1",
+    "@nestjs/core": ">=6.10.1",
+    "@typegoose/typegoose": ">=6.2.1",
+    "mongoose": ">=5.10.6"
   },
   "dependencies": {
     "is-class": "^0.0.9",
